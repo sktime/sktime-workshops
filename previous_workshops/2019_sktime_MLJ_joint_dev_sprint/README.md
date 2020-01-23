@@ -76,7 +76,7 @@ To install sktime, follow our installation instructions [here](https://github.co
 In order to contribute to sktime, you may also want to [fork](https://help.github.com/en/articles/fork-a-repo) the repository on Github and create a local [clone](https://help.github.com/en/articles/cloning-a-repository) of it, following the instructions in our [contributing guidelines](https://github.com/alan-turing-institute/sktime/blob/master/CONTRIBUTING.md).
 
 # Exercises for user testing
-Please find the exercise notebook for the sktime user testing session [here](https://github.com/sktime/sktime-workshops/previous-workshops/2019_sktime_MLJ_joint_dev_sprint/user_testing.ipynb).
+Please find the exercise notebook for the sktime user testing session [here](https://github.com/sktime/sktime-workshops/blob/master/previous_workshops/2019_sktime_MLJ_joint_dev_sprint/user_testing.ipynb).
 
 # Workshop projects
 

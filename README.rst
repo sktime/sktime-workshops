@@ -9,8 +9,8 @@
 .. _Binder: https://mybinder.org/v2/gh/sktime/sktime-workshops/master
 
 
-sktime
-======
+sktime workshops & tutorials
+============================
 
 This is a repository for tutorials for `sktime <https://github.com/alan-turing-institute/sktime/>`_, a `scikit-learn <https://github.com/scikit-learn/scikit-learn>`__
 compatible Python toolbox for machine learning with time series.

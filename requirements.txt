@@ -1,3 +1,4 @@
 sktime==0.6.1
+catch22
 matplotlib
 seaborn

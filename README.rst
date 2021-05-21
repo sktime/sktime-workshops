@@ -6,7 +6,7 @@
 .. _gitter: https://gitter.im/sktime/community
 
 .. |binder| image:: https://mybinder.org/badge_logo.svg
-.. _Binder: https://mybinder.org/v2/gh/sktime/sktime-workshops/master
+.. _Binder: https://mybinder.org/v2/gh/sktime/sktime-workshops/main
 
 
 sktime workshops & tutorials
